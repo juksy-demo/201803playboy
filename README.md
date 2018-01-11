@@ -1,2 +1,2 @@
-# Fire!
-https://juksy-demo.github.io/fire201712/index.html
+# Newwave!
+https://juksy-demo.github.io/201801newwave/index.html
