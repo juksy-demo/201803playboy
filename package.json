@@ -1,21 +1,21 @@
 {
-  "name": "201801newwave",
+  "name": "201803playboy",
   "version": "1.0.0",
-  "description": "https://juksy-demo.github.io/201801newwav/",
+  "description": "https://juksy-demo.github.io/201803playboy/",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juksy-demo/201801newwav.git"
+    "url": "git+https://github.com/juksy-demo/201803playboy.git"
   },
   "author": "Tony <tony.chen@juksy.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/juksy-demo/201801newwav/issues"
+    "url": "https://github.com/juksy-demo/201803playboy/issues"
   },
-  "homepage": "https://github.com/juksy-demo/201801newwav#readme",
+  "homepage": "https://github.com/juksy-demo/201803playboy#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
@@ -35,3 +35,4 @@
     "wowjs": "^1.1.3"
   }
 }
+
